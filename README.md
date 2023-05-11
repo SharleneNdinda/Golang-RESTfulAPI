@@ -1,4 +1,4 @@
-# A simple REST API bult with GO 🚀
+# A simple REST API built with GO 🚀
 
 ## Endpoints
 - v1/albums 
